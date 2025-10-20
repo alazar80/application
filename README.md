@@ -14,7 +14,7 @@
 [⬇️ Download the filecombiner EXE](https://github.com/alazar80/application/blob/main/file%20combiner.apk?raw=1)
 ---
 ---
-[⬇️ Download the Temple run demo APK](https://github.com/alazar80/application/blob/main/Fitness%20medical.apk?raw=1)
+[⬇️ Download the Temple run demo APK](https://github.com/alazar80/application/blob/main/Temple%20run%20demo.apk?raw=1)
 ---
 ---
 [⬇️ Download the My Vpn APK](https://github.com/alazar80/application/blob/main/My%20vpn.apk?raw=1)

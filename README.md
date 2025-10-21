@@ -25,3 +25,6 @@
 ---
 [⬇️ Download the Mini erp APK](https://github.com/alazar80/application/blob/main/Mini%20erp.apk?raw=1)
 ---
+---
+[⬇️ Download the Universal Print APK](https://github.com/alazar80/application/blob/main/Universal%20print.apk?raw=1)
+---

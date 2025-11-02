@@ -2,7 +2,7 @@
 [⬇️ Download the All bible APK](https://github.com/alazar80/application/blob/main/All%20bible.apk?raw=1)
 ---
 ---
-[⬇️ Download the A's Wallpaper bible APK](https://github.com/alazar80/application/blob/main/A's%20Wallpaper.apk?raw=1)
+[⬇️ Download the A's Wallpaper APK](https://github.com/alazar80/application/blob/main/A's%20Wallpaper.apk?raw=1)
 ---
 ---
 [⬇️ Download the Ethiopian Antivirus APK](https://github.com/alazar80/application/blob/main/Ethiopian%20Antivirus.apk?raw=1)

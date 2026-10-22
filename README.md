@@ -31,3 +31,9 @@
 ---
 [⬇️ Download the Universal Print APK](https://github.com/alazar80/application/blob/main/Universal%20print.apk?raw=1)
 ---
+
+## About
+Collection of apps and tools. Screens adapt across phone, tablet, and other devices.
+
+## Screen Adaptation
+All app screens use responsive layouts for multiple device sizes and orientations. About page follows standard contact/support pattern.
